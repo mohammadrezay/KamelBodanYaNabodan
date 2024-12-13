@@ -1,4 +1,4 @@
-# KamelBodanYaNabodan
+# KamelBodanYaNabodan.php
 https://quera.org/problemset/282
 <?php
 $n = (int)readline("Enter a number: ");
